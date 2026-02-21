@@ -1,43 +1,72 @@
-# ⚡ Hi, I'm Ladiyeh (@nullbyte-low) ⚡
+## 📝 README Review Notes
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Mathematics+Student+(L1);Python+%26+C+Developer;AI+Algorithm+Researcher;Focusing+on+Transformers+%26+BPE" alt="Typing SVG" />
-</p>
+### # ⚡ Hi, I'm Ladiyeh (@nullbyte-low) ⚡
+- **Note:** Strong opening and clear branding.
+- **Suggestion:** Add a one-line mission statement under the title so visitors instantly understand your focus.
+
+---
+
+### Typing SVG Banner
+- ✅ Visually engaging and communicates skills quickly.
+- ⚠️ “AI Algorithm Researcher” may sound too senior unless publishing research.
+- 👉 Consider: *AI Algorithms Explorer* or *ML Systems Learner*.
 
 ---
 
 ### 🧬 The Core Logic
-I am a **Mathematics student** obsessed with the "why" behind the "how." I don't just use AI libraries; I build the foundations from scratch to understand the underlying calculus and linear algebra.
+- **Comment:** Creative title but slightly unclear professionally.
+- **Optional rename:** `About Me` or `Philosophy`.
 
-- 📐 **Foundations:** Strengthening Mathematical L1 concepts for ML applications.
-- 🤖 **Deep Dive:** Implementing **BPE (Byte Pair Encoding)**, **Embeddings**, and **Transformer** architectures.
-- 💻 **Efficiency:** Writing low-level logic in **C** and high-level algorithms in **Python**.
+**Paragraph**
+- Strong explanation of mindset — keep the idea.
+- Replace **“obsessed”** with a more professional tone like *deeply interested* or *focused on*.
+
+---
+
+### Bullet Points
+- 📐 **Foundations**
+  - Good honesty about learning stage.
+
+- 🤖 **Deep Dive**
+  - Excellent specificity (BPE, embeddings, transformers).
+  - Makes your profile more credible.
+
+- 💻 **Efficiency**
+  - Very strong point — shows low-level + high-level thinking.
 
 ---
 
 ### 🛠️ Technical Arsenal
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+- Clean badge selection.
+- Optional: order by strongest skills first:
+  - Python → C → Linux → Tools
 
 ---
 
 ### 🔬 Research & Focus Areas
-| Domain | Specifics |
-| :--- | :--- |
-| **Tokenization** | Exploring BPE and SentencePiece efficiency |
-| **Architecture** | Attention Mechanisms & Multi-Head Transformers |
-| **Math** | Linear Algebra, Calculus, and Discrete Structures |
-| **Logic** | Data Structures and "Low-Level" Algorithm Design |
+- Table layout works very well (easy scanning).
+
+**Tokenization**
+- Consider adding “from-scratch implementations” if true.
+
+**Architecture**
+- Clear ML direction — strong section.
+
+**Math**
+- Matches your identity well.
+
+**Logic**
+- Remove quotation marks around *Low-Level* for cleaner style.
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Progress%20over%20perfection.%20Learning%20never%20stops." alt="Quote" />
-</p>
+### Quote Section
+- Nice visual ending.
+- Optional improvement:
+  - Add Projects or GitHub stats after this for a stronger closing impression.
+
+---
+
+## ✅ Overall Verdict
+Strong structure and clear specialization.
+Only minor wording and tone improvements needed.
