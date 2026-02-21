@@ -1,72 +1,43 @@
-## 📝 README Review Notes
+# ⚡ Hi, I'm Ladiyeh (@nullbyte-low) ⚡
 
-### # ⚡ Hi, I'm Ladiyeh (@nullbyte-low) ⚡
-- **Note:** Strong opening and clear branding.
-- **Suggestion:** Add a one-line mission statement under the title so visitors instantly understand your focus.
-
----
-
-### Typing SVG Banner
-- ✅ Visually engaging and communicates skills quickly.
-- ⚠️ “AI Algorithm Researcher” may sound too senior unless publishing research.
-- 👉 Consider: *AI Algorithms Explorer* or *ML Systems Learner*.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Mathematics+Student+(L1);Python+%26+C+Developer;AI+Algorithms+Explorer;Focused+on+Transformers+%26+BPE" alt="Typing SVG" />
+</p>
 
 ---
 
 ### 🧬 The Core Logic
-- **Comment:** Creative title but slightly unclear professionally.
-- **Optional rename:** `About Me` or `Philosophy`.
+I am a **Mathematics student** driven by understanding the *why* behind the *how*. Rather than only using AI libraries, I rebuild core concepts from scratch to deeply understand the calculus, linear algebra, and logic powering modern machine learning systems.
 
-**Paragraph**
-- Strong explanation of mindset — keep the idea.
-- Replace **“obsessed”** with a more professional tone like *deeply interested* or *focused on*.
-
----
-
-### Bullet Points
-- 📐 **Foundations**
-  - Good honesty about learning stage.
-
-- 🤖 **Deep Dive**
-  - Excellent specificity (BPE, embeddings, transformers).
-  - Makes your profile more credible.
-
-- 💻 **Efficiency**
-  - Very strong point — shows low-level + high-level thinking.
+- 📐 **Foundations:** Strengthening L1 mathematical concepts with a focus on ML applications.
+- 🤖 **Deep Dive:** Implementing **BPE (Byte Pair Encoding)**, **embeddings**, and **Transformer** architectures from first principles.
+- 💻 **Efficiency:** Combining low-level optimization in **C** with high-level algorithm design in **Python**.
 
 ---
 
 ### 🛠️ Technical Arsenal
-- Clean badge selection.
-- Optional: order by strongest skills first:
-  - Python → C → Linux → Tools
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
 ### 🔬 Research & Focus Areas
-- Table layout works very well (easy scanning).
-
-**Tokenization**
-- Consider adding “from-scratch implementations” if true.
-
-**Architecture**
-- Clear ML direction — strong section.
-
-**Math**
-- Matches your identity well.
-
-**Logic**
-- Remove quotation marks around *Low-Level* for cleaner style.
+| Domain | Specifics |
+| :--- | :--- |
+| **Tokenization** | Exploring BPE and SentencePiece efficiency and implementation details |
+| **Architecture** | Attention mechanisms and Multi-Head Transformer models |
+| **Math** | Linear algebra, calculus, and discrete mathematical structures |
+| **Logic** | Data structures and low-level algorithm design |
 
 ---
 
-### Quote Section
-- Nice visual ending.
-- Optional improvement:
-  - Add Projects or GitHub stats after this for a stronger closing impression.
-
----
-
-## ✅ Overall Verdict
-Strong structure and clear specialization.
-Only minor wording and tone improvements needed.
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Progress%20over%20perfection.%20Learning%20never%20stops." alt="Quote" />
+</p>
